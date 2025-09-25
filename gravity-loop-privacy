@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gravity Loop プライバシーポリシー</title>
+  <meta name="description" content="iOSゲームアプリ『Gravity Loop』のプライバシーポリシー。広告（Google AdMob）に関するデータの取り扱い、追跡、連絡先などについて説明します。">
+  <link rel="icon" href="data:,">
+  <style>
+    :root{--bg:#0b0c10;--card:#12131a;--text:#e7e9ee;--muted:#9aa0aa;--accent:#3ec1ff;}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, "Noto Sans JP", sans-serif;background:linear-gradient(180deg,#0b0c10,#0e1016);color:var(--text);-webkit-font-smoothing:antialiased;line-height:1.7}
+    .wrap{max-width:860px;margin:0 auto;padding:32px 20px 64px;}
+    header{padding:16px 0 8px;margin-bottom:12px;border-bottom:1px solid rgba(255,255,255,.08)}
+    h1{font-size:26px;margin:0 0 4px}
+    .updated{color:var(--muted);font-size:14px}
+    h2{margin-top:28px;font-size:20px;border-left:3px solid var(--accent);padding-left:10px}
+    p,li{font-size:16px}
+    a{color:var(--accent);text-decoration:none}
+    a:hover{text-decoration:underline}
+    .card{background:var(--card);border:1px solid rgba(255,255,255,.08);padding:18px;border-radius:14px;margin:16px 0}
+    code{background:#0d1117;color:#c9d1d9;padding:2px 6px;border-radius:6px}
+    footer{margin-top:36px;color:var(--muted);font-size:13px}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1>Gravity Loop プライバシーポリシー</h1>
+      <div class="updated">最終更新日: 2025-09-25</div>
+    </header>
+
+    <p>本ページは、iOSゲームアプリ<strong>「Gravity Loop」</strong>（以下「本アプリ」）における個人情報および関連データの取扱いについて説明するものです。本アプリはログインや会員登録を必要としません。広告配信のために <strong>Google AdMob</strong> を利用しています。</p>
+
+    <h2>収集される可能性のあるデータ</h2>
+    <div class="card">
+      <ul>
+        <li><strong>識別子</strong>：広告ID（IDFA）等</li>
+        <li><strong>使用状況データ</strong>：広告の表示・クリック・インプレッションに関する情報</li>
+        <li><strong>診断データ</strong>：クラッシュログ、パフォーマンス指標 等</li>
+        <li><strong>おおよその位置情報</strong>：IPアドレス等から推定される地域情報</li>
+      </ul>
+      <p>上記データの多くは広告ネットワーク（Google およびそのパートナー）によって収集・処理されます。開発者は本アプリ内でユーザー登録情報や連絡先情報を収集しません。</p>
+    </div>
+
+    <h2>利用目的</h2>
+    <ul>
+      <li>第三者広告の配信およびパーソナライズ</li>
+      <li>広告効果測定・不正防止・サービスの安全性向上</li>
+      <li>アプリの品質改善（クラッシュ解析やパフォーマンス改善）</li>
+    </ul>
+
+    <h2>トラッキングおよびユーザー同意</h2>
+    <p>本アプリは広告のパーソナライズおよび効果測定のために <strong>IDFA</strong> を利用する場合があります。iOS 14以降では、初回起動時などに <em>App Tracking Transparency</em>（ATT）の許可ダイアログが表示されます。ユーザーは「許可しない」を選択できます。選択はいつでも「設定 &gt; プライバシーとセキュリティ &gt; 追跡」から変更できます。</p>
+
+    <h2>第三者（Google AdMob）</h2>
+    <p>Google およびパートナーによるデータの取扱い、パーソナライズ広告の管理、オプトアウトの方法等の詳細は以下をご確認ください：</p>
+    <ul>
+      <li><a href="https://policies.google.com/technologies/ads?hl=ja" target="_blank" rel="noopener">Google の広告に関するポリシー</a></li>
+      <li><a href="https://policies.google.com/privacy?hl=ja" target="_blank" rel="noopener">Google プライバシーポリシー</a></li>
+      <li><a href="https://myadcenter.google.com/?hl=ja" target="_blank" rel="noopener">広告設定（My Ad Center）</a></li>
+    </ul>
+
+    <h2>データの保管と共有</h2>
+    <p>当方（開発者）は自前のサーバーで個人データを保管しません。広告配信・計測に必要なデータは、広告ネットワークのポリシーに基づき処理・保存されます。当方が第三者へ個人データを販売することはありません。</p>
+
+    <h2>子どものプライバシー</h2>
+    <p>本アプリは13歳未満の子どもを主な対象としていません。該当する地域の法令（例：COPPA）に準拠する形で運用します。</p>
+
+    <h2>セキュリティ</h2>
+    <p>本アプリは通信時に業界標準の暗号化（HTTPS/TLS）を使用します。完全な安全性を保証するものではありませんが、適切な安全対策の継続的な改善に努めます。</p>
+
+    <h2>ポリシーの変更</h2>
+    <p>必要に応じて本ポリシーを更新することがあります。重要な変更があった場合は、アプリ内または本ページで告知します。</p>
+
+    <h2>お問い合わせ</h2>
+    <p>本ポリシーに関するお問い合わせは、以下のメールアドレスまでご連絡ください。</p>
+    <div class="card">
+      <p>メール: <a href="mailto:contact@example.com">712keit@gmail.com</a></p>
+      <p>開発者名（表記例）: Keita Tamura</p>
+    </div>
+
+    <footer>
+      <p>© 2025 Keita Tamura</p>
+    </footer>
+  </div>
+</body>
+</html>
